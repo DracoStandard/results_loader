@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+*.user
+packages/
+.venv/
+venv/
+__pycache__/
+*.pyc
